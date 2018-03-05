@@ -53,12 +53,12 @@ return this
 参数配置，为了暴露给外部将参数赋值给$.fn属性
 ```
 $.fn.jqSlider.default={
-		domElement:'img-play',
-		nextControl:null,
-		prevControl:null,
-		speed:0,//自动播放时间
-		animateTime:0,//动画时间
-		auto:false//是否自动播放
+  domElement:'img-play',
+  nextControl:null,
+  prevControl:null,
+  speed:0,//自动播放时间
+  animateTime:0,//动画时间
+  auto:false//是否自动播放
 }
 ```
 
